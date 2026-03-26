@@ -57,5 +57,8 @@
 3. เปิด CMD หรือ PowerShell ในโฟลเดอร์โปรเจกต์
 4. รันคำสั่ง:
 
+## ตัวอย่างโปรแกรม
+<img width="521" height="552" alt="image" src="https://github.com/user-attachments/assets/b8e684e1-c65e-4359-9c1c-0faa33fe56c1" />
+
 ```bash
 python dream_point_gui.py
